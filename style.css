@@ -1,4 +1,6 @@
 #hello{
     border: 3px solid black;
     border-radius: 25px;
+    heigth: 100px;
+    width: 300px;
 }
